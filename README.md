@@ -29,7 +29,7 @@ This project provides data-driven insights into sales distribution across differ
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Dashboard Preview]()
+![Blinkit Dashboard Preview](https://github.com/munshi-sakib/Bi-Project/blob/main/Screenshot%202026-07-22%20142320.png)
 
 ---
 
