@@ -1,5 +1,4 @@
-# Bi-Project
-Blinkit Bi projects
+# Blinkit Sales projects
 # 🛒 Blinkit Online Shopping Sales & Performance Analysis
 
 An interactive Power BI dashboard analyzing sales metrics, customer ratings, outlet characteristics, and product inventory performance for Blinkit (online grocery application).
